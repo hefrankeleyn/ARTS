@@ -1,5 +1,8 @@
-#LeetCode# I have solved Remove Duplicates from Sorted Array. Come and join the fun! http://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/#.Xy4YFKuC_qI.sinaweibo
+# LeetCode:  Remove Duplicates from Sorted Array. 
 
+Come and join the fun! http://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/#.Xy4YFKuC_qI.sinaweibo
+
+```java
 class Solution {
     /**
      * 思路： 通过不断的交换位置，将不重复的值按照顺序放到最前面。
@@ -38,4 +41,4 @@ class Solution {
         nums[i] = temp;
     }
 }
-
+```
