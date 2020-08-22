@@ -24,6 +24,7 @@ class Solution {
 
 ## 参考他人的解决方案：
 
+```java
 class Solution {
     /**
      * 参考他人的思路
@@ -36,5 +37,5 @@ class Solution {
 		 return false;
     }
 }
-
+```
 
