@@ -85,3 +85,32 @@ class Solution {
 }
 ```
 
+
+
+## 在读C语言书读时候，理解了第二种方案：
+
+```java
+    public int reverse(int x){
+        int sign = x;
+        if (sign<0){
+            x = -x;
+        }
+        long result = 0;
+        do {
+            result = result*10 + x%10;
+        }while ((x/=10)>0);
+
+        if (sign<0){
+            if((result = -result)<Integer.MIN_VALUE){
+                return 0;
+            }
+            return (int)result;
+        }else {
+            if (result>Integer.MAX_VALUE){
+                return 0;
+            }
+            return (int)result;
+        }
+    }
+```
+
