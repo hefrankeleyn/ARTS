@@ -55,8 +55,8 @@
         <tr>
             <td>206</td>
             <td><a href="https://leetcode.com/problems/reverse-linked-list/">反转链表</a></td>
-            <td></td>
-            <td></td>
+            <td>解法固定，没有任何技巧，就是多做</td>
+            <td>2021-04-03</td>
             <td></td>
             <td></td>
             <td></td>
