@@ -56,7 +56,7 @@
             <td>206</td>
             <td><a href="https://leetcode.com/problems/reverse-linked-list/">反转链表</a></td>
             <td>解法固定，没有任何技巧，就是多做</td>
-            <td>2021-04-03</td>
+            <td bgcolor="#009933">2021-04-03</td>
             <td></td>
             <td></td>
             <td></td>
@@ -66,7 +66,7 @@
             <td>24</td>
             <td><a href="https://leetcode-cn.com/problems/swap-nodes-in-pairs/">两两交换链表中的节点</a></td>
             <td></td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
