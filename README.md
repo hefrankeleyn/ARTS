@@ -86,7 +86,7 @@
             <td>142</td>
             <td><a href="https://leetcode-cn.com/problems/linked-list-cycle-ii/">环形链表II</a></td>
             <td>快慢指针:需要数学推演</td>
-            <td bgcolor="#009933">2021-04-04<</td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
@@ -125,8 +125,8 @@
         <tr>
             <td>84</td>
             <td><a href="https://leetcode-cn.com/problems/largest-rectangle-in-histogram">柱状图中最大的矩形</a></td>
-            <td></td>
-            <td></td>
+            <td>借助栈来解决</td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
