@@ -105,8 +105,8 @@
         <tr>
             <td>20</td>
             <td><a href="https://leetcode-cn.com/problems/valid-parentheses/">有效的括号</a></td>
-            <td></td>
-            <td></td>
+            <td>具有最小相关性的问题，用栈来解决</td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
