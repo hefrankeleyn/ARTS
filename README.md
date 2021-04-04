@@ -115,8 +115,8 @@
         <tr>
             <td>155</td>
             <td><a href="https://leetcode-cn.com/problems/min-stack/">最小栈</a></td>
-            <td></td>
-            <td></td>
+            <td>借用Node存放min</td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
