@@ -75,8 +75,8 @@
         <tr>
             <td>141</td>
             <td><a href="https://leetcode.com/problems/linked-list-cycle">环形链表</a></td>
-            <td></td>
-            <td></td>
+            <td>快慢指针</td>
+            <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
             <td></td>
