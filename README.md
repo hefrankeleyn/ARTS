@@ -95,7 +95,7 @@
         <tr>
             <td>25</td>
             <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">K 个一组翻转链表</a></td>
-            <td>指针移动，不太懂</td>
+            <td>指针移动 ： 需要重点理解反转的过程</td>
             <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
