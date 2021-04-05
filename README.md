@@ -218,8 +218,8 @@
         <tr>
             <td>42</td>
             <td><a href="https://leetcode.com/problems/trapping-rain-water/">接雨水</a></td>
-            <td></td>
-            <td></td>
+            <td>可以借助单调栈来解决</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
