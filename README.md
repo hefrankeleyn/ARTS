@@ -188,8 +188,8 @@
         <tr>
             <td>1</td>
             <td><a href="https://leetcode-cn.com/problems/two-sum/">两数之和</a></td>
-            <td></td>
-            <td></td>
+            <td>暴力求解</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
