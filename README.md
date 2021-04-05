@@ -148,8 +148,8 @@
         <tr>
             <td>26</td>
             <td><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">删除排序数组中的重复项</a></td>
-            <td></td>
-            <td></td>
+            <td>类似将0移动到末尾到那道题目</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
