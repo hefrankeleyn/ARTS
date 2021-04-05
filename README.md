@@ -198,8 +198,8 @@
         <tr>
             <td>66</td>
             <td><a href="https://leetcode-cn.com/problems/plus-one/">加1</a></td>
-            <td></td>
-            <td></td>
+            <td>暴力求解</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
