@@ -168,8 +168,8 @@
         <tr>
             <td>21</td>
             <td><a href="https://leetcode-cn.com/problems/merge-two-sorted-lists/">合并两个有序链表</a></td>
-            <td></td>
-            <td></td>
+            <td>借助归并排序的思路</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
