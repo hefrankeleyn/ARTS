@@ -178,8 +178,8 @@
         <tr>
             <td>88</td>
             <td><a href="https://leetcode-cn.com/problems/merge-sorted-array/">合并两个有序数组</a></td>
-            <td></td>
-            <td></td>
+            <td>归并排序的思路</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
