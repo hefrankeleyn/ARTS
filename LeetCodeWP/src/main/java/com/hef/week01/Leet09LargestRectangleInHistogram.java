@@ -1,6 +1,7 @@
 package com.hef.week01;
 
-import java.util.Arrays;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 /**
  * @Date 2021/4/4
@@ -9,6 +10,35 @@ import java.util.Arrays;
 public class Leet09LargestRectangleInHistogram {
 
     public int largestRectangleArea(int[] heights) {
+        if (heights==null || heights.length==0) {
+            return 0;
+        }
+        int len = heights.length;
+        if (len==1) return heights[0];
+        int[] newHeights = new int[len + 2];
+        for (int i = 0;i<heights.length; i++) {
+            newHeights[i+1] = heights[i];
+        }
+        heights = newHeights;
+        len += 2;
+        Deque<Integer> deque = new ArrayDeque<>();
+        int area = 0;
+        for (int i = 0; i<len; i++) {
+            while (!deque.isEmpty() && heights[deque.peekLast()] > heights[i]) {
+                int height = heights[deque.removeLast()];
+                int width = i - deque.peekLast() - 1;
+                area = Math.max(area, height * width);
+            }
+            deque.addLast(i);
+        }
+
+
+
+
+        return area;
+    }
+
+    /*public int largestRectangleArea(int[] heights) {
         if (heights==null || heights.length==0) {
             return 0;
         }
@@ -25,7 +55,7 @@ public class Leet09LargestRectangleInHistogram {
             max = Math.max(max, heights[i] * (y-x + 1));
         }
         return max;
-    }
+    }*/
 
     public static void main(String[] args) {
         int[] heights = {4,2,0,3,2,4,3,4};

@@ -95,7 +95,7 @@
         <tr>
             <td>25</td>
             <td><a href="https://leetcode.com/problems/reverse-nodes-in-k-group/">K 个一组翻转链表</a></td>
-            <td>指针移动，不太动</td>
+            <td>指针移动，不太懂</td>
             <td bgcolor="#009933">2021-04-04</td>
             <td></td>
             <td></td>
@@ -127,7 +127,7 @@
             <td><a href="https://leetcode-cn.com/problems/largest-rectangle-in-histogram">柱状图中最大的矩形</a></td>
             <td>借助栈来解决</td>
             <td bgcolor="#009933">2021-04-04</td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
@@ -136,8 +136,8 @@
             <td>239</td>
             <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum">滑动窗口最大值</a></td>
             <td>使用双端队列</td>
-            <td bgcolor="#009933">2021-04-04<</td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-04</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
