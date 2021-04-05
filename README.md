@@ -208,8 +208,8 @@
         <tr>
             <td>641</td>
             <td><a href="https://leetcode.com/problems/design-circular-deque">设计循环双端队列</a></td>
-            <td></td>
-            <td></td>
+            <td>使用内存类，定义环形链表</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
