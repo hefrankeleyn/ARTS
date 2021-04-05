@@ -158,8 +158,8 @@
         <tr>
             <td>189</td>
             <td><a href="https://leetcode-cn.com/problems/rotate-array/">旋转数组</a></td>
-            <td></td>
-            <td></td>
+            <td>三次翻转解决问题</td>
+            <td bgcolor="#009933">2021-04-05</td>
             <td></td>
             <td></td>
             <td></td>
