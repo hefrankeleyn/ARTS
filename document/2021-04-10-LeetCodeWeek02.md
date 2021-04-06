@@ -33,8 +33,8 @@
         <tr>
             <td>242</td>
             <td><a href="https://leetcode-cn.com/problems/valid-anagram/">有效的字母异位词</a></td>
-            <td></td>
-            <td></td>
+            <td>方案一：暴力法：排序，对比；<br/>方案二: 使用Map</td>
+            <td bgcolor="#009933">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
@@ -43,8 +43,8 @@
         <tr>
             <td>49</td>
             <td><a href="https://leetcode-cn.com/problems/group-anagrams/">字母异位词分组</a></td>
-            <td></td>
-            <td></td>
+            <td>使用Map</td>
+            <td bgcolor="#009933">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
