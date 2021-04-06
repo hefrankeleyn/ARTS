@@ -34,7 +34,7 @@
             <td>242</td>
             <td><a href="https://leetcode-cn.com/problems/valid-anagram/">有效的字母异位词</a></td>
             <td>方案一：暴力法：排序，对比；<br/>方案二: 使用Map</td>
-            <td bgcolor="#009933">2021-04-06</td>
+            <td style="background-color: #009933;">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
@@ -44,7 +44,7 @@
             <td>49</td>
             <td><a href="https://leetcode-cn.com/problems/group-anagrams/">字母异位词分组</a></td>
             <td>使用Map</td>
-            <td bgcolor="#009933">2021-04-06</td>
+            <td style="background-color: #009933;">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
@@ -131,7 +131,7 @@
             <td></td>
         </tr>
         <tr>
-            <td colspan="8" bgcolor="#cc00ff">作业</td>
+            <td colspan="8" style="background-color: #cc00ff;">作业</td>
         </tr>
         <tr>
             <td>剑指 Offer 49</td>
