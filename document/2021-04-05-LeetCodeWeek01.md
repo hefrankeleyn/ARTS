@@ -150,7 +150,7 @@
             <td><a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">删除排序数组中的重复项</a></td>
             <td>类似将0移动到末尾到那道题目</td>
             <td bgcolor="#009933">2021-04-05</td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
@@ -160,7 +160,7 @@
             <td><a href="https://leetcode-cn.com/problems/rotate-array/">旋转数组</a></td>
             <td>三次翻转解决问题</td>
             <td bgcolor="#009933">2021-04-05</td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
@@ -190,7 +190,7 @@
             <td><a href="https://leetcode-cn.com/problems/two-sum/">两数之和</a></td>
             <td>暴力求解</td>
             <td bgcolor="#009933">2021-04-05</td>
-            <td></td>
+            <td bgcolor="#009933">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>
