@@ -53,8 +53,8 @@
         <tr>
             <td>1</td>
             <td><a href="https://leetcode-cn.com/problems/two-sum/description/">两数之和</a></td>
-            <td></td>
-            <td></td>
+            <td>使用Map高效的解决</td>
+            <td style="background-color: #009933;">2021-04-06</td>
             <td></td>
             <td></td>
             <td></td>

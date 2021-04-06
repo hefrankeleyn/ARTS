@@ -25,5 +25,9 @@
 
 [第二周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/tree/master/document/2021-04-10-LeetCodeWeek02.md)。
 
+### 总结：
 
+### 改进：
+
+1. 看其他人写的代码，并把好的代码收集起来；
 
