@@ -63,8 +63,8 @@
         <tr>
             <td>94</td>
             <td><a href="https://leetcode-cn.com/problems/binary-tree-inorder-traversal/">二叉树的中序遍历</a></td>
-            <td></td>
-            <td></td>
+            <td>中序遍历</td>
+            <td style="background-color: #009933;">2021-04-07</td>
             <td></td>
             <td></td>
             <td></td>
@@ -73,8 +73,8 @@
         <tr>
             <td>144</td>
             <td><a href="https://leetcode-cn.com/problems/binary-tree-preorder-traversal/">二叉树的前序遍历</a></td>
-            <td></td>
-            <td></td>
+            <td>前序遍历</td>
+            <td style="background-color: #009933;">2021-04-07</td>
             <td></td>
             <td></td>
             <td></td>
@@ -83,8 +83,8 @@
         <tr>
             <td>590</td>
             <td><a href="https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/">N叉树的后序遍历</a></td>
-            <td></td>
-            <td></td>
+            <td>后续遍历</td>
+            <td style="background-color: #009933;">2021-04-07</td>
             <td></td>
             <td></td>
             <td></td>
