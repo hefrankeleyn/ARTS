@@ -94,7 +94,7 @@
             <td>589</td>
             <td><a href="https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/">N叉树的前序遍历</a></td>
             <td></td>
-            <td></td>
+            <td style="background-color: #009933;">2021-04-08</td>
             <td></td>
             <td></td>
             <td></td>
@@ -103,8 +103,8 @@
         <tr>
             <td>429</td>
             <td><a href="https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/">N叉树的层序遍历</a></td>
-            <td></td>
-            <td></td>
+            <td>采用递归，使用列表保存每一层到节点</td>
+            <td style="background-color: #009933;">2021-04-08</td>
             <td></td>
             <td></td>
             <td></td>
