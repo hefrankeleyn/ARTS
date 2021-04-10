@@ -123,9 +123,9 @@
         <tr>
             <td>239</td>
             <td><a href="https://leetcode-cn.com/problems/sliding-window-maximum">滑动窗口最大值</a></td>
-            <td>方案一：使用双端队列</td>
+            <td>方案一：使用双端队列;<br/>方案二：使用大饼堆来实现（时间复杂度多了一个logk）；</td>
             <td style="background-color: #009933;">2021-04-10</td>
-            <td></td>
+            <td style="background-color: #009933;">2021-04-10</td>
             <td></td>
             <td></td>
             <td></td>
