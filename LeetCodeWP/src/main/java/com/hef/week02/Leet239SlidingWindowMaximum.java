@@ -2,7 +2,7 @@ package com.hef.week02;
 
 import java.util.*;
 
-public class Leet239SlidingWindowMaximum {
+public class Leet239SlidingWindowMaximum{
 
     public int[] maxSlidingWindow(int[] nums, int k) {
         if (nums==null || nums.length==0 || k==0) return null;
@@ -23,6 +23,8 @@ public class Leet239SlidingWindowMaximum {
     }
 
     public static void main(String[] args) {
+        Map<Integer, Integer> map = new HashMap<>();
+        map.getOrDefault(0, 0);
 
         int[] nums = {1,3,-1,-3,5,3,6,7}; int k = 3;
         Leet239SlidingWindowMaximum slidingWindowMaximum = new Leet239SlidingWindowMaximum();

@@ -146,8 +146,8 @@
         <tr>
             <td>347</td>
             <td><a href="https://leetcode-cn.com/problems/top-k-frequent-elements/">前 K 个高频元素</a></td>
-            <td></td>
-            <td></td>
+            <td>使用大饼堆、使用Map、定义一个Comparable类型Item</td>
+            <td style="background-color: #009933;">2021-04-10</td>
             <td></td>
             <td></td>
             <td></td>
