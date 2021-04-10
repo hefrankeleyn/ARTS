@@ -113,8 +113,8 @@
         <tr>
             <td>剑指 Offer 40</td>
             <td><a href="https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/">最小的k个数</a></td>
-            <td></td>
-            <td></td>
+            <td>最小优先级队列</td>
+            <td style="background-color: #009933;">2021-04-10</td>
             <td></td>
             <td></td>
             <td></td>

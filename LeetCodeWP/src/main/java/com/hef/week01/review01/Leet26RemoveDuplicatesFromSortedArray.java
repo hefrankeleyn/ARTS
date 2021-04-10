@@ -44,6 +44,7 @@ public class Leet26RemoveDuplicatesFromSortedArray {
     }
 
     public static void main(String[] args) {
+        Character i = ' ';
         int[] nums = {1};
         System.out.println(Arrays.toString(nums));
         Leet26RemoveDuplicatesFromSortedArray removeDuplicatesFromSortedArray = new Leet26RemoveDuplicatesFromSortedArray();
