@@ -158,7 +158,7 @@
 
 ## 第二周总结：
 
-
+[堆排序（升序和降序）](https://github.com/hefrankeleyn/ARTS/blob/master/LeetCodeWP/src/main/java/com/hef/week02/homework/MyHeapSort.java)
 
 ## 改进：
 
