@@ -29,6 +29,8 @@
 
 [堆排序（升序和降序）](https://github.com/hefrankeleyn/ARTS/blob/master/LeetCodeWP/src/main/java/com/hef/week02/homework/MyHeapSort.java)
 
+[hashMap的实现](https://github.com/hefrankeleyn/ARTS/tree/master/document/2021-04-11-hashMap的实现.md)
+
 ### 改进：
 
 1. 看其他人写的代码，并把好的代码收集起来；
