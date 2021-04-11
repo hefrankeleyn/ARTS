@@ -136,8 +136,8 @@
         <tr>
             <td>剑指 Offer 49</td>
             <td><a href="https://leetcode-cn.com/problems/chou-shu-lcof/">丑数​</a></td>
-            <td></td>
-            <td></td>
+            <td>使用小根堆实现</td>
+            <td style="background-color: #009933;">2021-04-10</td>
             <td></td>
             <td></td>
             <td></td>
