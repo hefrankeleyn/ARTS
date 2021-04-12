@@ -35,3 +35,12 @@
 
 1. 看其他人写的代码，并把好的代码收集起来；
 
+## 二、第三周：20210412—20210418
+
+[第二周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-04-12-LeetCodeWeek03.md)。
+
+### 总结：
+
+
+### 改进：
+
