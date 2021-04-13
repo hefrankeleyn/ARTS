@@ -36,8 +36,8 @@
         <tr>
             <td>70</td>
             <td><a href="https://leetcode.com/problems/climbing-stairs/">爬楼梯</a></td>
-            <td></td>
-            <td></td>
+            <td>数学归纳</td>
+            <td style="background-color: #009933;">2021-04-12</td>
             <td></td>
             <td></td>
             <td></td>
@@ -46,8 +46,8 @@
         <tr>
             <td>22</td>
             <td><a href="https://leetcode-cn.com/problems/generate-parentheses/#/description">括号生成</a></td>
-            <td></td>
-            <td></td>
+            <td>递归算法</td>
+            <td style="background-color: #009933;">2021-04-12</td>
             <td></td>
             <td></td>
             <td></td>
@@ -146,8 +146,8 @@
         <tr>
             <td>51</td>
             <td><a href="https://leetcode-cn.com/problems/n-queens/">N皇后</a></td>
-            <td></td>
-            <td></td>
+            <td>递归（回溯）</td>
+            <td style="background-color: #009933;">2021-04-14</td>
             <td></td>
             <td></td>
             <td></td>
