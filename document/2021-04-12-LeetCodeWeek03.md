@@ -56,8 +56,8 @@
         <tr>
             <td>226</td>
             <td><a href="https://leetcode-cn.com/problems/invert-binary-tree/description/">翻转二叉树</a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-12</td>
             <td></td>
             <td></td>
             <td></td>
