@@ -57,7 +57,7 @@
             <td>226</td>
             <td><a href="https://leetcode-cn.com/problems/invert-binary-tree/description/">翻转二叉树</a></td>
             <td>递归</td>
-            <td style="background-color: #009933;">2021-04-12</td>
+            <td style="background-color: #009933;">2021-04-15</td>
             <td></td>
             <td></td>
             <td></td>
@@ -66,8 +66,8 @@
         <tr>
             <td>98</td>
             <td><a href="https://leetcode-cn.com/problems/validate-binary-search-tree/">验证二叉搜索树</a></td>
-            <td></td>
-            <td></td>
+            <td>中序遍历，定义一个</td>
+            <td style="background-color: #009933;">2021-04-15</td>
             <td></td>
             <td></td>
             <td></td>
@@ -76,8 +76,8 @@
         <tr>
             <td>104</td>
             <td><a href="https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/">二叉树的最大深度</a></td>
-            <td></td>
-            <td></td>
+            <td>递归，分别遍历左右</td>
+            <td style="background-color: #009933;">2021-04-15</td>
             <td></td>
             <td></td>
             <td></td>
@@ -86,8 +86,8 @@
         <tr>
             <td>111</td>
             <td><a href="https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/">二叉树的最小深度</a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-15</td>
             <td></td>
             <td></td>
             <td></td>
