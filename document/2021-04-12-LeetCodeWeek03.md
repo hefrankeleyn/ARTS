@@ -106,8 +106,8 @@
         <tr>
             <td>50</td>
             <td><a href="https://leetcode-cn.com/problems/powx-n/">Pow(x, n)</a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-18</td>
             <td></td>
             <td></td>
             <td></td>
