@@ -200,8 +200,8 @@
         <tr>
             <td>47</td>
             <td><a href="https://leetcode-cn.com/problems/permutations-ii/">全排列 II </a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-18</td>
             <td></td>
             <td></td>
             <td></td>
@@ -212,9 +212,12 @@
 
 ## 第二周总结：
 
-[堆排序（升序和降序）](https://github.com/hefrankeleyn/ARTS/blob/master/LeetCodeWP/src/main/java/com/hef/week02/homework/MyHeapSort.java)
+1. 本地都题目基本都可以用递归进行求解；
+2. 作业的后三题，很类似；
 
 ## 改进：
 
+1. 要及时回顾之前所做过的题目；
+2. 需要回顾“五毒刷题法”；
 
 
