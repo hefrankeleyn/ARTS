@@ -9,10 +9,16 @@ import java.util.*;
 public class Leet78Subsets {
 
     public static void main(String[] args) {
-        int[] nums = {1,2,3};
-        Leet78Subsets subsets = new Leet78Subsets();
-        List<List<Integer>> subsets1 = subsets.subsets(nums);
-        System.out.println(subsets1);
+        char c = 'a';
+        Integer.parseInt(c);
+        String s = "aaa";
+        int r = (int)(s.charAt(2) - 2);
+        System.out.println(r);
+        char c2 = (char)(c + 2);
+//        int[] nums = {1,2,3};
+//        Leet78Subsets subsets = new Leet78Subsets();
+//        List<List<Integer>> subsets1 = subsets.subsets(nums);
+//        System.out.println(subsets1);
     }
 
     public List<List<Integer>> subsets(int[] nums) {
