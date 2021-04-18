@@ -126,8 +126,8 @@
         <tr>
             <td>169</td>
             <td><a href="https://leetcode-cn.com/problems/majority-element/description/">多数元素</a></td>
-            <td></td>
-            <td></td>
+            <td>使用一个map解决</td>
+            <td style="background-color: #009933;">2021-04-18</td>
             <td></td>
             <td></td>
             <td></td>
