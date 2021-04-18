@@ -190,8 +190,8 @@
         <tr>
             <td>46</td>
             <td><a href="https://leetcode-cn.com/problems/permutations/">全排列</a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-18</td>
             <td></td>
             <td></td>
             <td></td>
