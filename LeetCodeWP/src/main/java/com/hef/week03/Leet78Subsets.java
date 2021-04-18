@@ -10,7 +10,7 @@ public class Leet78Subsets {
 
     public static void main(String[] args) {
         char c = 'a';
-        Integer.parseInt(c);
+        Integer.parseInt(c+"");
         String s = "aaa";
         int r = (int)(s.charAt(2) - 2);
         System.out.println(r);
