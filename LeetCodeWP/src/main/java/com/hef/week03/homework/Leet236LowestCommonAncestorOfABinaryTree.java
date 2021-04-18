@@ -13,6 +13,11 @@ public class Leet236LowestCommonAncestorOfABinaryTree {
         TreeNode(int x) { val = x; }
     }
 
+    public static void main(String[] args) {
+        int pow = (int)Math.pow(2, 3);
+        System.out.println(pow);
+    }
+
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root==null || p==null || q==null || p==root || q == root) {
             return root;

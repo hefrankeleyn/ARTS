@@ -96,8 +96,8 @@
         <tr>
             <td>297</td>
             <td><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/">二叉树的序列化与反序列化</a></td>
-            <td></td>
-            <td></td>
+            <td>递归</td>
+            <td style="background-color: #009933;">2021-04-18</td>
             <td></td>
             <td></td>
             <td></td>
