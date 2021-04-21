@@ -48,7 +48,7 @@
             <td><a href="https://leetcode-cn.com/problems/generate-parentheses/#/description">括号生成</a></td>
             <td>递归算法</td>
             <td style="background-color: #009933;">2021-04-12</td>
-            <td></td>
+            <td style="background-color: #009933;">2021-04-22</td>
             <td></td>
             <td></td>
             <td></td>
