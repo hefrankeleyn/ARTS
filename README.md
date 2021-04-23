@@ -47,7 +47,7 @@
 
 ## 四、第四周：20210419—20210425
 
-[第三周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-04-12-LeetCodeWeek03.md)。
+[第四周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-04-23-LeetCodeWeek04.md.md)。
 
 ### 总结：
 
