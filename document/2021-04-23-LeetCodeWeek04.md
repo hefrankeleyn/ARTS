@@ -57,7 +57,7 @@
    <tr>
        <td>22</td>
        <td><a href="https://leetcode-cn.com/problems/generate-parentheses/#/description">括号生成</a></td>
-       <td></td>
+       <td>DFS?</td>
        <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
@@ -79,8 +79,8 @@
    <tr>
        <td>69</td>
        <td><a href="https://leetcode-cn.com/problems/sqrtx/">x的平方根</a></td>
-       <td></td>
-       <td></td>
+       <td>方案一： 袖珍计算器； 方案二： 二分法； 方案三：牛顿迭代法（不理解）</td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
@@ -89,8 +89,8 @@
    <tr>
        <td>367</td>
        <td><a href="https://leetcode-cn.com/problems/valid-perfect-square/">有效的完全平方数</a></td>
-       <td></td>
-       <td></td>
+       <td>和上一题类似，使用二分查找就可以</td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
