@@ -102,8 +102,8 @@
    <tr>
        <td>860</td>
        <td><a href="https://leetcode-cn.com/problems/lemonade-change/description/">柠檬水找零</a></td>
-       <td></td>
-       <td></td>
+       <td>暴力求解</td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
@@ -113,8 +113,8 @@
        <td>122</td>
        <td><a href="https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/">买卖股票的最佳时机
                II</a></td>
-       <td></td>
-       <td></td>
+       <td>贪心法（关键是理解这里的贪心法为啥成立）</td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
