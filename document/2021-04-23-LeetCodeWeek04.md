@@ -37,8 +37,8 @@
        <td>102</td>
        <td><a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/#/description">二叉树的层次遍历</a>
        </td>
-       <td></td>
-       <td></td>
+       <td>方案一：BFS；方案二：DFS；</td>
+       <td style="background-color: #009933;">2021-04-12</td>
        <td></td>
        <td></td>
        <td></td>
@@ -47,8 +47,8 @@
    <tr>
        <td>433</td>
        <td><a href="https://leetcode-cn.com/problems/minimum-genetic-mutation/#/description">最小基因变化</a></td>
-       <td></td>
-       <td></td>
+       <td>方案一：BFS，每一步转换就是一层</td>
+       <td style="background-color: #009933;">2021-04-12</td>
        <td></td>
        <td></td>
        <td></td>
