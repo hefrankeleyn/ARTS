@@ -58,7 +58,7 @@
        <td>22</td>
        <td><a href="https://leetcode-cn.com/problems/generate-parentheses/#/description">括号生成</a></td>
        <td></td>
-       <td></td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
