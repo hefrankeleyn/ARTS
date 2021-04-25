@@ -10,6 +10,7 @@ import java.util.*;
 public class Leet874WalkingRobotSimulation {
 
     public static void main(String[] args) {
+        Arrays.asList("aa".toCharArray());
         int[] commands = {4,-1,3};
         int[][] obstacles = {{}};
         Leet874WalkingRobotSimulation walkingRobotSimulation = new Leet874WalkingRobotSimulation();

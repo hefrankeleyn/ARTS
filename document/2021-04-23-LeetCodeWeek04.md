@@ -134,7 +134,7 @@
        <td>874</td>
        <td><a href="https://leetcode-cn.com/problems/walking-robot-simulation/description/">模拟行走机器人</a></td>
        <td>贪心算法</td>
-       <td style="background-color: #009933;">2021-04-24</td>
+       <td style="background-color: #009933;">2021-04-25</td>
        <td></td>
        <td></td>
        <td></td>
@@ -143,8 +143,8 @@
    <tr>
        <td>127</td>
        <td><a href="https://leetcode-cn.com/problems/word-ladder/description/">单词接龙</a></td>
-       <td></td>
-       <td></td>
+       <td>方案一：BFS, HashSet的查询速度比List要快， 要去除已经参观过的节点， 包含起点；</td>
+       <td style="background-color: #009933;">2021-04-25</td>
        <td></td>
        <td></td>
        <td></td>
