@@ -133,8 +133,8 @@
    <tr>
        <td>874</td>
        <td><a href="https://leetcode-cn.com/problems/walking-robot-simulation/description/">模拟行走机器人</a></td>
-       <td></td>
-       <td></td>
+       <td>贪心算法</td>
+       <td style="background-color: #009933;">2021-04-24</td>
        <td></td>
        <td></td>
        <td></td>
