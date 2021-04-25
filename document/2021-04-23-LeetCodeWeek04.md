@@ -183,8 +183,8 @@
    <tr>
        <td>33</td>
        <td><a href="https://leetcode-cn.com/problems/search-in-rotated-sorted-array/">搜索旋转排序数组</a></td>
-       <td></td>
-       <td></td>
+       <td>二分查找</td>
+       <td style="background-color: #009933;">2021-04-25</td>
        <td></td>
        <td></td>
        <td></td>
