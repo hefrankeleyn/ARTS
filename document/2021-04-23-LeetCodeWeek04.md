@@ -173,8 +173,8 @@
    <tr>
        <td>55</td>
        <td><a href="https://leetcode-cn.com/problems/jump-game/">跳跃游戏</a></td>
-       <td></td>
-       <td></td>
+       <td>贪心法</td>
+       <td style="background-color: #009933;">2021-04-25</td>
        <td></td>
        <td></td>
        <td></td>
