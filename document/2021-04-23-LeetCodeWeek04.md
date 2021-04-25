@@ -193,8 +193,8 @@
    <tr>
        <td>74</td>
        <td><a href="https://leetcode-cn.com/problems/search-a-2d-matrix/">搜索二维矩阵</a></td>
-       <td></td>
-       <td></td>
+       <td>二次二分查找</td>
+       <td style="background-color: #009933;">2021-04-25</td>
        <td></td>
        <td></td>
        <td></td>
