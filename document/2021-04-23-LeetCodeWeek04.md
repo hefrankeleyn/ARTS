@@ -203,8 +203,8 @@
    <tr>
        <td>153</td>
        <td><a href="https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/">寻找旋转排序数组中的最小值</a></td>
-       <td></td>
-       <td></td>
+       <td>二分查找</td>
+       <td style="background-color: #009933;">2021-04-26</td>
        <td></td>
        <td></td>
        <td></td>
