@@ -1,5 +1,6 @@
 package com.hef.week04.homework;
 
+import java.util.*;
 /**
  * 查找翻转数组的最小值： 二分查找
  * @Date 2021/4/26
@@ -8,6 +9,20 @@ package com.hef.week04.homework;
 public class Leet153FindMinimumInRotatedSortedArray {
 
     public static void main(String[] args) {
+        /*
+        [
+        ["hit","hot","dot","lot","log","cog"],
+        ["hit","hot","dot","lot","log","cog","dog","cog"],
+        ["hit","hot","dot","cog","cog","dog","cog"],
+        ["hit","hot","dot","cog","cog","dog","cog","log","cog"],
+        ["hit","hot","cog","cog","cog","cog","lot","dot","dog","cog"],
+        ["hit","hot","cog","cog","cog","cog","lot","dot","dog","cog","log","cog"],
+        ["hit","hot","cog","cog","cog","cog","lot","cog","cog","log","cog"],
+        ["hit","hot","cog","cog","cog","cog","lot","cog","cog","log","cog","dog","cog"]]
+        [
+        ["hit","hot","dot","dog","cog"],
+        ["hit","hot","lot","log","cog"]]
+         */
         Leet153FindMinimumInRotatedSortedArray findMinimumInRotatedSortedArray = new Leet153FindMinimumInRotatedSortedArray();
         int[] nums = {4,5,6,7,0,1,2};
         System.out.println(findMinimumInRotatedSortedArray.findMin(nums));
