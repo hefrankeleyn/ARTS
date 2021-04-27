@@ -163,8 +163,8 @@
    <tr>
        <td>529</td>
        <td><a href="https://leetcode-cn.com/problems/minesweeper/description/">扫雷游戏</a></td>
-       <td></td>
-       <td></td>
+       <td>DFS: 关键是理解规则。（如果是数字就不再递归）</td>
+       <td style="background-color: #009933;">2021-04-27</td>
        <td></td>
        <td></td>
        <td></td>
@@ -214,7 +214,7 @@
        <td>126</td>
        <td><a href="https://leetcode-cn.com/problems/word-ladder-ii/description/">单词接龙II</a></td>
        <td>先BFS，再DFS</td>
-       <td style="background-color: #009933;">2021-04-26</td>
+       <td style="background-color: #009933;">2021-04-27</td>
        <td></td>
        <td></td>
        <td></td>
@@ -224,7 +224,7 @@
        <td>45</td>
        <td><a href="https://leetcode-cn.com/problems/jump-game-ii/">跳跃游戏 II</a></td>
        <td>BFS</td>
-       <td style="background-color: #009933;">2021-04-26</td>
+       <td style="background-color: #009933;">2021-04-27</td>
        <td></td>
        <td></td>
        <td></td>
