@@ -223,8 +223,8 @@
    <tr>
        <td>45</td>
        <td><a href="https://leetcode-cn.com/problems/jump-game-ii/">跳跃游戏 II</a></td>
-       <td></td>
-       <td></td>
+       <td>BFS</td>
+       <td style="background-color: #009933;">2021-04-26</td>
        <td></td>
        <td></td>
        <td></td>
