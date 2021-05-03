@@ -59,4 +59,14 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td>1143</td>
+            <td><a href="https://leetcode-cn.com/problems/longest-common-subsequence/">最长公共子序列</a></td>
+            <td>动态规划</td>
+            <td style="background-color: #009933;">2021-05-03</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
 </table>
