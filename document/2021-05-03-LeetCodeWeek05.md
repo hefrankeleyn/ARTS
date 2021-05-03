@@ -29,4 +29,34 @@
             <td></td>
             <td></td>
         </tr>
+        <tr>
+            <td>63</td>
+            <td><a href="https://leetcode-cn.com/problems/unique-paths-ii/">不同路径 II</a></td>
+            <td>动态规划：重新开辟一个一维数组</td>
+            <td style="background-color: #009933;">2021-05-03</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>64</td>
+            <td><a href="https://leetcode-cn.com/problems/minimum-path-sum/">最小路径和</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>174</td>
+            <td><a href="https://leetcode-cn.com/problems/dungeon-game/">地下城游戏</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
 </table>
