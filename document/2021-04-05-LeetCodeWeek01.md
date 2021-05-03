@@ -35,10 +35,10 @@
         <tr>
             <td>70</td>
             <td><a href="https://leetcode.com/problems/climbing-stairs/">爬楼梯</a></td>
-            <td>最近子问题</td>
+            <td>方案一：递归；方案二：动态规划（存储中间状态）；方案三：自底向上递推；</td>
             <td bgcolor="#009933">2021-04-01</td>
             <td bgcolor="#009933">2021-04-03</td>
-            <td></td>
+            <td bgcolor="#009933">2021-05-03</td>
             <td></td>
             <td></td>
         </tr>
