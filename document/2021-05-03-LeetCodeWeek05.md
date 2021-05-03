@@ -42,8 +42,8 @@
         <tr>
             <td>64</td>
             <td><a href="https://leetcode-cn.com/problems/minimum-path-sum/">最小路径和</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划</td>
+            <td style="background-color: #009933;">2021-05-03</td>
             <td></td>
             <td></td>
             <td></td>
