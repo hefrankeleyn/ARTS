@@ -101,8 +101,8 @@
         <tr>
             <td>198</td>
             <td><a href="https://leetcode-cn.com/problems/house-robber/">打家劫舍</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划： 1. 最优子结构； 2. 定义状态并存储状态； 3. 递推方程；</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
