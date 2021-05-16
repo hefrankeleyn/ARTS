@@ -111,8 +111,8 @@
         <tr>
             <td>213</td>
             <td><a href="https://leetcode-cn.com/problems/house-robber-ii/description/">打家劫舍 II</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划： 1. 最优子结构； 2. 定义状态并存储状态； 3. 递推方程；</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
@@ -252,8 +252,8 @@
         <tr>
             <td>64</td>
             <td><a href="https://leetcode-cn.com/problems/minimum-path-sum/">最小路径和</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划： 1. 最优子结构； 2. 定义状态，并保存状态； 3. 递推方程（DP）。注意阅读完注意事项。</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
