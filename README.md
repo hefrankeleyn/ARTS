@@ -62,3 +62,13 @@
 
 
 ### 改进：
+
+## 六、第六周： 20210505-20210516
+
+[第六周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-16-LeetCodeWeek06.md)。
+
+### 总结：
+
+### 改进：
+
+向优秀的同学学习
