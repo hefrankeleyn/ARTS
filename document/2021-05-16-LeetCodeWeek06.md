@@ -91,8 +91,8 @@
         <tr>
             <td>322</td>
             <td><a href="https://leetcode-cn.com/problems/coin-change/">零钱兑换</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划：1. 最优子结构； 2. 定义状态并存储状态； 3. 递推方程；（此题目要考虑amount=0 也是合法的）</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
