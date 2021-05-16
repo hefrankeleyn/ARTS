@@ -262,8 +262,8 @@
         <tr>
             <td>91</td>
             <td><a href="https://leetcode-cn.com/problems/decode-ways">解码方法</a></td>
-            <td></td>
-            <td></td>
+            <td>类似与爬楼梯</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
