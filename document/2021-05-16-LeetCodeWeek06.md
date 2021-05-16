@@ -71,8 +71,8 @@
         <tr>
             <td>53</td>
             <td><a href="https://leetcode-cn.com/problems/maximum-subarray/">最大子序和</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划： int[] dp = nums.clone()</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
