@@ -51,8 +51,8 @@
         <tr>
             <td>70</td>
             <td><a href="https://leetcode-cn.com/problems/climbing-stairs/description/">爬楼梯</a></td>
-            <td></td>
-            <td></td>
+            <td>存储中间状态</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
