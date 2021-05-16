@@ -81,8 +81,8 @@
         <tr>
             <td>152</td>
             <td><a href="https://leetcode-cn.com/problems/maximum-product-subarray/description/">乘积最大子数组</a></td>
-            <td></td>
-            <td></td>
+            <td>动态规划： 需要多考虑一种情况——当前值乘以上一次的最小值。</td>
+            <td style="background-color: #009933;">2021-05-16</td>
             <td></td>
             <td></td>
             <td></td>
