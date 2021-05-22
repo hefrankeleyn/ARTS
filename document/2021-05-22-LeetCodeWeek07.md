@@ -43,7 +43,7 @@
     <tr>
         <td>51</td>
         <td><a href="https://leetcode-cn.com/problems/n-queens/">N皇后</a></td>
-        <td>DFS: 通过 列、撇、捺 进行剪枝；<br> Python实现可以写得很简洁，要去学习。</td>
+        <td>DFS: 通过 列、撇、捺 进行剪枝；<br> Python实现可以写得很简洁</td>
         <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
@@ -53,8 +53,8 @@
     <tr>
         <td>36</td>
         <td><a href="https://leetcode-cn.com/problems/valid-sudoku/">有效的数独</a></td>
-        <td></td>
-        <td></td>
+        <td>遍历一边；也可以借助Map</td>
+        <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
         <td></td>
@@ -63,8 +63,8 @@
     <tr>
         <td>37</td>
         <td><a href="https://leetcode-cn.com/problems/sudoku-solver/">解数独</a></td>
-        <td></td>
-        <td></td>
+        <td>类似与八皇后问题；<br/>方案一：类比八皇后；<br/>方案二：为格子编写81个号；<br/>方案三： 提前设置好三个set，用于判别重；</td>
+        <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
         <td></td>
