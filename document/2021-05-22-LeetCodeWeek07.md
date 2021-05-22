@@ -43,8 +43,8 @@
     <tr>
         <td>51</td>
         <td><a href="https://leetcode-cn.com/problems/n-queens/">N皇后</a></td>
-        <td></td>
-        <td></td>
+        <td>DFS: 通过 列、撇、捺 进行剪枝；<br> Python实现可以写得很简洁，要去学习。</td>
+        <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
         <td></td>
