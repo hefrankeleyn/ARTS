@@ -33,7 +33,7 @@
     <tr>
         <td>22</td>
         <td><a href="https://leetcode-cn.com/problems/generate-parentheses/">括号生成</a></td>
-        <td>剪纸思想：将其想想成为一个n*2 的数组</td>
+        <td>方案一：剪纸思想：将其想想成为一个n*2 的数组; <br/>方案二：动态规划</td>
         <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
