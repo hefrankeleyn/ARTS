@@ -23,8 +23,8 @@
     <tr>
         <td>70</td>
         <td><a href="https://leetcode-cn.com/problems/climbing-stairs/">爬楼梯</a></td>
-        <td></td>
-        <td></td>
+        <td>剪枝思想</td>
+        <td style="background-color: #009933;">2021-05-22</td>
         <td></td>
         <td></td>
         <td></td>
