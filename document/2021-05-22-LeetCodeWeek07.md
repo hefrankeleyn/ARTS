@@ -65,7 +65,7 @@
         <td><a href="https://leetcode-cn.com/problems/sudoku-solver/">解数独</a></td>
         <td>类似与八皇后问题；<br/>方案一：类比八皇后；<br/>方案二：为格子编写81个号；<br/>方案三： 提前设置好三个set，用于判别重；</td>
         <td style="background-color: #009933;">2021-05-22</td>
-        <td></td>
+        <td style="background-color: #009933;">2021-05-23</td>
         <td></td>
         <td></td>
         <td></td>
