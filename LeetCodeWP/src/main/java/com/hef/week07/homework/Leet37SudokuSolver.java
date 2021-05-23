@@ -20,7 +20,7 @@ public class Leet37SudokuSolver {
                 {'.','6','.','.','.','.','2','8','.'},
                 {'.','.','.','4','1','9','.','.','5'},
                 {'.','.','.','.','8','.','.','7','9'}};
-        sudokuSolver.solve(board);
+        sudokuSolver.solveSudoku(board);
         for (char[] a : board) {
             System.out.println(Arrays.toString(a));
         }
