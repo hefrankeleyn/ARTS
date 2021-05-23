@@ -73,8 +73,8 @@
     <tr>
         <td>127</td>
         <td><a href="https://leetcode-cn.com/problems/word-ladder/">单词接龙</a></td>
-        <td></td>
-        <td></td>
+        <td>高频题<br/>方案一：采用BFS；<br/>方案二：双向BFS</td>
+        <td style="background-color: #009933;">2021-05-23</td>
         <td></td>
         <td></td>
         <td></td>
