@@ -83,8 +83,8 @@
     <tr>
         <td>433</td>
         <td><a href="https://leetcode-cn.com/problems/minimum-genetic-mutation/">最小基因变化</a></td>
-        <td></td>
-        <td></td>
+        <td>方案一：采用BFS；<br/>方案二：采用双向BFS</td>
+        <td style="background-color: #009933;">2021-05-23</td>
         <td></td>
         <td></td>
         <td></td>

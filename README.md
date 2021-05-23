@@ -1,4 +1,4 @@
-# LeetCode 练习记录
+# 07搜索算法.pngLeetCode 练习记录
 
 [toc]
 
@@ -72,3 +72,15 @@
 ### 改进：
 
 向优秀的同学学习
+
+
+## 七、第七周： 20210517-20210523
+
+[第七周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-22-LeetCodeWeek07.md)。
+
+### 总结：
+
+![搜索算法](./document/photos/07搜索算法.png)
+
+### 改进：
+
