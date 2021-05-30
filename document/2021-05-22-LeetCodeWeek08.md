@@ -30,4 +30,67 @@
         <td></td>
         <td></td>
     </tr>
+    <tr>
+        <td colspan="8" style="background-color: #cc00ff;">实战</td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td><a href="https://leetcode-cn.com/problems/number-of-1-bits/">位1的个数</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>231</td>
+        <td><a href="https://leetcode-cn.com/problems/power-of-two/">2的幂</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>190</td>
+        <td><a href="https://leetcode-cn.com/problems/reverse-bits/">颠倒二进制位</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td><a href="https://leetcode-cn.com/problems/n-queens/description/">N皇后</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td><a href="https://leetcode-cn.com/problems/n-queens-ii/description/">N皇后 II</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>338</td>
+        <td><a href="https://leetcode-cn.com/problems/counting-bits/description/">比特位计数</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
 </table>
