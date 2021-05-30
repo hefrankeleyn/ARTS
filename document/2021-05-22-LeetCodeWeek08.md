@@ -31,6 +31,26 @@
         <td></td>
     </tr>
     <tr>
+        <td>79</td>
+        <td><a href="https://leetcode-cn.com/problems/word-search/">单词搜索 I</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>212</td>
+        <td><a href="https://leetcode-cn.com/problems/word-search-ii/">单词搜索 II</a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
         <td colspan="8" style="background-color: #cc00ff;">实战</td>
     </tr>
     <tr>

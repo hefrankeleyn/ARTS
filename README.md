@@ -84,3 +84,14 @@
 
 ### 改进：
 
+
+## 八、第八周： 20210524-20210530
+
+[第八周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-22-LeetCodeWeek08.md)。
+
+### 总结：
+
+![搜索算法](./document/photos/07搜索算法.png)
+
+### 改进：
+
