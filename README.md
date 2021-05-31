@@ -91,7 +91,7 @@
 
 ### 总结：
 
-![搜索算法](./document/photos/07搜索算法.png)
+![搜索算法](./document/photos/2021-05-31-Trie树（字典树）.png)
 
 ### 改进：
 
