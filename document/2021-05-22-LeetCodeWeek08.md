@@ -33,8 +33,8 @@
     <tr>
         <td>79</td>
         <td><a href="https://leetcode-cn.com/problems/word-search/">单词搜索 I</a></td>
-        <td></td>
-        <td></td>
+        <td>利用trie树来实现；<br/> 注意：1. trie的实现；2.dfs的实现；</td>
+        <td style="background-color: #009933;">2021-05-31</td>
         <td></td>
         <td></td>
         <td></td>
