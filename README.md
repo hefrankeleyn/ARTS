@@ -91,7 +91,13 @@
 
 ### 总结：
 
-![搜索算法](./document/photos/2021-05-31-Trie树（字典树）.png)
+#### （1）字典树Trie
+
+![字典树](./document/photos/2021-05-31-Trie树（字典树）.png)
+
+#### （2）并查集
+
+![字典树](./document/photos/2021-05-31-并查集.png)
 
 ### 改进：
 
