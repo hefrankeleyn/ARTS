@@ -106,3 +106,22 @@
 
 ### 改进：
 
+
+
+## 九、第九周： 20210601-20210606
+
+[第九周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-06-06-LeetCodeWeek09.md)。
+
+### 总结：
+
+
+### 改进：
+
+## 十、第十周： 20210607-20210613
+
+[第十周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-06-07-LeetCodeWeek10.md)。
+
+### 总结：
+
+
+### 改进：
