@@ -33,7 +33,7 @@ public class Leet72EditDistance {
                 }
             }
         }
-        return dp[rowNum-1][colNum-1];
+        return dp[n1][n2];
     }
 
 
