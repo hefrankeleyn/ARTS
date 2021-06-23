@@ -107,10 +107,11 @@
 ### 改进：
 
 
-
 ## 九、第九周： 20210601-20210606
 
 [第九周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-06-06-LeetCodeWeek09.md)。
+
+![布隆过滤器和LRU Cache](./document/photos/2021-06-23-布隆过滤器和LRU Cache.png)
 
 ### 总结：
 
