@@ -158,7 +158,7 @@
         <tr>
             <td>242</td>
             <td><a href="https://leetcode-cn.com/problems/valid-anagram/">有效的字母异位词</a></td>
-            <td></td>
+            <td style="background-color: #009933;">2021-07-02</td>
             <td></td>
             <td></td>
             <td></td>
