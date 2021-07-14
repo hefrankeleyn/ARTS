@@ -19,5 +19,5 @@ public class LeetCode125ValidPalindrome {
         }
         return true;
     }
-    
+
 }
