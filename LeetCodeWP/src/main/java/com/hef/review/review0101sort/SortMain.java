@@ -15,7 +15,16 @@ public class SortMain {
 //        InsertSort.sort(a);
         // 希尔排序
 //        ShellSort.sort(a);
-        MaoPaoSort.sort(a);
+        // 冒泡排序
+//        MaoPaoSort.sort(a);
+        // 快速排序
+//        QuickSort.sort(a);
+        // 三路快速排序
+//        Quick3WaySort.sort(a);
+        // 选择排序
+//        SelectSort.sort(a);
+        // 堆排序
+        HeapSort.sort(a);
         System.out.println(Arrays.toString(a));
     }
 }
