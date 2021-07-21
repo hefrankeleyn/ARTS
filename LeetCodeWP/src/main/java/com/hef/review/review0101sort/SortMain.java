@@ -14,7 +14,8 @@ public class SortMain {
         // 插入排序
 //        InsertSort.sort(a);
         // 希尔排序
-        ShellSort.sort(a);
+//        ShellSort.sort(a);
+        MaoPaoSort.sort(a);
         System.out.println(Arrays.toString(a));
     }
 }
