@@ -24,7 +24,11 @@ public class SortMain {
         // 选择排序
 //        SelectSort.sort(a);
         // 堆排序
-        HeapSort.sort(a);
+//        HeapSort.sort(a);
+        // 从下到上到归并排序
+//        BottomToUpMerge.sort(a);
+        // 从上到下到归并排序
+        UpToBottomMerge.sort(a);
         System.out.println(Arrays.toString(a));
     }
 }
