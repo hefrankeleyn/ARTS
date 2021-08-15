@@ -28,6 +28,7 @@ public class LeetCode200NumberOFIslands02 {
         int[] dy = {1, 0};
         int n = grid.length;
         int m = grid[0].length;
+        // 总共有 n * m 个元素
         UF uf = new UF(n*m);
         int zeroNum = 0;
         for (int i=0; i<grid.length; i++) {
@@ -41,6 +42,7 @@ public class LeetCode200NumberOFIslands02 {
                         uf.union(i*m+j, x*m+y);
                     }
                 }else {
+                    // 如果 为 0 就不是一个组合
                     zeroNum ++ ;
                 }
             }
