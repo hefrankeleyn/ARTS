@@ -1,131 +1,123 @@
-# 07搜索算法.pngLeetCode 练习记录
+# 数据结构与算法
 
 [toc]
 
-## 零：ARTS
+## 一、数据结构
 
-一个关于有趣的活动，叫做：[ARTS](https://github.com/hefrankeleyn/ARTS/tree/master/document/ARTS.md)。
+### 1.1 BST、AVL、Red-Black BST
 
-## 一、第一周：20210329—20210405
+- [BST 二分搜索树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/review1/tree/BinarySearchTree.java)
+- [AVL 平衡二分搜索树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/review1/tree/AVLTree.java)
+- [Red-Black BST 红黑二分搜索树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/review1/tree/RedBlackBST.java)
 
-[第一周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/tree/master/document/2021-04-05-LeetCodeWeek01.md)。
+### 1.2 Trie 字典树
 
-### 总结：
+- [Trie 字典树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-03-%E5%AD%97%E5%85%B8%E6%A0%91%E5%8F%8A%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
 
-1. “k个一组翻转链表”、“滑动窗口最大值”、“滑动窗口最大值”、“接雨水”有些难度；
-2. 绝大部分题目，目前只刷了一遍。还没有到网站上看其他人的解题方案；
+### 1.3 Union-find 并查集
 
-### 改进：
+- [Union-Find 并查集](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-04-UnionFind%E5%B9%B6%E6%9F%A5%E9%9B%86%E5%8F%8A%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
-1. 指定详细的计划，每天都要回顾、刷题；
-2. 一定要看看其他人的解法，多刷几遍；
-3. 每天都进度表一定要制作出来，并且每天都要复盘。
+### 1.4 数组 Array List、链表 LinkedList、跳表 SkipList
 
-## 二、第二周：20210406—20210410
+- 数组：随机查询的时间复杂度为O(1) ，插入、删除的时间复杂度为O(n)
 
-[第二周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/tree/master/document/2021-04-10-LeetCodeWeek02.md)。
+- 链表：随机查询的时间复杂度为O(n)，插入、删除的时间复杂度为O(1)
 
-### 总结：
+#### 跳表 Skip list
 
-[堆排序（升序和降序）](https://github.com/hefrankeleyn/ARTS/blob/master/LeetCodeWP/src/main/java/com/hef/week02/homework/MyHeapSort.java)
+- 跳表只能用于（链表里的）元素有序的情况。
 
-[hashMap的实现](https://github.com/hefrankeleyn/ARTS/tree/master/document/2021-04-11-hashMap的实现.md)
+- 跳表对标的是平衡树（AVL Tree）、二分查找，是一种插入、删除、搜索时间复杂度搜是O(logn)的数据结构。
 
-### 改进：
+跳表的使用案例：Redis、LevelDB
 
-1. 看其他人写的代码，并把好的代码收集起来；
+### 1.5 栈、队列、双端队列Deque、优先队列Priority Queue
 
-## 三、第三周：20210412—20210418
+栈 Stack： 先入后出；添加、删除皆为O(1)；
 
-[第三周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-04-12-LeetCodeWeek03.md)。
+队列 Queue：先入先出：添加、删除皆为O(1);
 
-### 总结：
+> 补充：java种 stack、queue、priority queue 的源码分析
 
+### 1.6 哈希表 HashMap、集合 Set
 
-### 改进：
+> 补充：HashMap的源码分析
 
+### 1.7 树、二叉树
 
-## 四、第四周：20210419—20210425
+- 树的遍历
 
-[第四周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-04-23-LeetCodeWeek04.md)。
+  前per-order、中in-order、后序post-order
 
-### 总结：
+- 二叉搜索树
 
+### 1.8 堆 Heap
 
-### 改进：
+- 可以迅速找到一堆数中的最大值或者最小值的数据结构：大顶堆（或大根堆）、小顶堆（或小根堆）
+- 二叉堆是堆的一种实现方式：完全二叉树实现堆；
 
-## 五、第五周：20210430-20210505
+### 1.9 图
 
-[第五周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-03-LeetCodeWeek05.md)。
+- DFS、BFS：因为可能成环，所以一定要加visited
+- 连通图的个数；
+- 拓扑排序
+- 最短路径
+- 最小生成树
 
-### 总结：
 
 
-### 改进：
 
-## 六、第六周： 20210505-20210516
 
-[第六周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-16-LeetCodeWeek06.md)。
 
-### 总结：
 
-### 改进：
 
-向优秀的同学学习
 
 
-## 七、第七周： 20210517-20210523
 
-[第七周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-22-LeetCodeWeek07.md)。
 
-### 总结：
 
-![搜索算法](./document/photos/07搜索算法.png)
 
-### 改进：
 
 
-## 八、第八周： 20210524-20210530
 
-[第八周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-05-22-LeetCodeWeek08.md)。
 
-### 总结：
 
-#### （1）字典树Trie
+##  二、算法
 
-![字典树](./document/photos/2021-05-31-Trie树（字典树）.png)
+### 2.1 [动态规划](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-09-14-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
 
-#### （2）并查集
+### 2.2 双指针法
 
-![字典树](./document/photos/2021-05-31-并查集.png)
+### 2.3 左右夹逼，双指针
 
+### 2.4 用栈来解决：
 
-#### （3）AVL和红黑树
+- 最近相关性、洋葱一样的结构
+- 经典题目：括号匹配、直方图
 
-![字典树](./document/photos/2021-06-01-高级树、AVL、红黑树.png)
+### 2.5 用队列来解决
 
-### 改进：
+- 滑动窗口
 
 
-## 九、第九周： 20210601-20210606
 
-[第九周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-06-06-LeetCodeWeek09.md)。
+### 2.6 用堆来解决（PriorityQueue）
 
-![布隆过滤器和LRU Cache](./document/photos/2021-06-23-布隆过滤器和LRU Cache.png)
+- 滑动窗口
 
-### 总结：
 
 
-### 改进：
+### 2.7 递归的算法题目
 
-## 十、第十周： 20210607-20210613
+递归代码模版
 
-[第十周的LeetCode练习记录](https://github.com/hefrankeleyn/ARTS/blob/master/document/2021-06-07-LeetCodeWeek10.md)。
+- 递归终止条件；
+- 处理当前层
+- 下探到下一层
+- 恢复状态
 
-### 总结：
+经典题目：
 
+- 生成括号
 
-### 改进：
-
-
-https://mp.weixin.qq.com/s/vdB0xWuuWHaDZcFTZXZNMQ
