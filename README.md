@@ -24,7 +24,9 @@
 
 - 链表：随机查询的时间复杂度为O(n)，插入、删除的时间复杂度为O(1)
 
-#### 跳表 Skip list
+#### 跳表 [Skip list](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/stack/SkipList.java)
+
+> 跳表的实现，参考[跳表(skiplist)分析设计与实现(Java)](https://zhuanlan.zhihu.com/p/339750543)
 
 - 跳表只能用于（链表里的）元素有序的情况。
 
