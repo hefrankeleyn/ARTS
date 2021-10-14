@@ -10,9 +10,11 @@
 - [AVL 平衡二分搜索树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/review1/tree/AVLTree.java)
 - [Red-Black BST 红黑二分搜索树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/review1/tree/RedBlackBST.java)
 
-### 1.2 Trie 字典树
+### 1.2 Trie 字典树、LRU Cache、布隆过滤器
 
 - [Trie 字典树](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-03-%E5%AD%97%E5%85%B8%E6%A0%91%E5%8F%8A%E7%BB%8F%E5%85%B8%E9%A2%98%E7%9B%AE.md)
+- [LRU Cache](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/lur/LRUCache.java)
+- [布隆过滤器](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03PyWP/BooleanFilter.py)
 
 ### 1.3 Union-find 并查集
 
@@ -64,6 +66,8 @@ redis为啥使用跳表，而不使用红黑树？
 1. 红黑树实现复杂，跳表实现简单；
 2. zrange(0, -1) 和红黑树一样， 但 zrange(10, 100) 红黑树很难做到；
 ```
+
+- [双指针的算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-05-%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95.md)
 
 
 
