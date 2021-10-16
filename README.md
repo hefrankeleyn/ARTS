@@ -85,6 +85,8 @@ redis为啥使用跳表，而不使用红黑树？
 
 > 补充：HashMap的源码分析
 
+- [HashMap相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-16-%E5%93%88%E5%B8%8Cmap%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
+
 ### 1.7 树、二叉树
 
 - 树的遍历
@@ -128,9 +130,9 @@ redis为啥使用跳表，而不使用红黑树？
 
 ### 2.1 [动态规划](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-09-14-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
 
-### 2.2 双指针法
+### 2.2 [双指针法](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-05-%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95.md)
 
-### 2.3 左右夹逼，双指针
+### 2.3 [HashMap相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-16-%E5%93%88%E5%B8%8Cmap%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
 ### 2.4 用栈来解决：
 
@@ -161,4 +163,17 @@ redis为啥使用跳表，而不使用红黑树？
 经典题目：
 
 - 生成括号
+
+## 三、方法论
+
+### 3.1 刷题四件套
+
+- 确认题意；
+- 思考所有可能的方案，并选择最佳方案；
+- 编写代码；
+- 测试；
+
+### 3.2 最大的误区
+
+题目只做一遍。
 
