@@ -95,6 +95,8 @@ redis为啥使用跳表，而不使用红黑树？
 
 - 二叉搜索树
 
+- [树的遍历相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-17-%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86.md)
+
 ### 1.8 堆 Heap
 
 - 可以迅速找到一堆数中的最大值或者最小值的数据结构：大顶堆（或大根堆）、小顶堆（或小根堆）
