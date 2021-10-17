@@ -110,22 +110,6 @@ redis为啥使用跳表，而不使用红黑树？
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##  二、算法
 
 ### 2.1 [动态规划](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-09-14-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
@@ -138,6 +122,10 @@ redis为啥使用跳表，而不使用红黑树？
 
 - 最近相关性、洋葱一样的结构
 - 经典题目：括号匹配、直方图
+
+（遇到用队列来解决栈、或用栈来解决队列，一般的思路为使用两个栈或两个队列）
+
+- [栈相关算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-16-%E6%A0%88%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
 ### 2.5 用队列来解决
 
