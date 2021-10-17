@@ -99,8 +99,9 @@ redis为啥使用跳表，而不使用红黑树？
 
 ### 1.8 堆 Heap
 
-- 可以迅速找到一堆数中的最大值或者最小值的数据结构：大顶堆（或大根堆）、小顶堆（或小根堆）
+- 可以迅速找到一堆数中的最大值或者最小值的数据结构：[大顶堆（或大根堆）](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/heap/MaxHeap.java)、[小顶堆（或小根堆）](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/heap/MinHeap.java)
 - 二叉堆是堆的一种实现方式：完全二叉树实现堆；
+- [堆排序](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/heap/HeapSort.java)
 
 ### 1.9 图
 
@@ -131,15 +132,13 @@ redis为啥使用跳表，而不使用红黑树？
 
 ### 2.5 用队列来解决
 
-- 滑动窗口
-
-
+- [滑动窗口](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/heap/MaxSlidingWindow.java)
 
 ### 2.6 用堆来解决（PriorityQueue）
 
-- 滑动窗口
+- 滑动窗口(使用堆，没有队列方便)
 
-
+[堆相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-18-%E5%A0%86%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
 ### 2.7 递归的算法题目
 
