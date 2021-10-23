@@ -153,6 +153,14 @@ redis为啥使用跳表，而不使用红黑树？
 
 - [递归算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-18-%E9%80%92%E5%BD%92%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
+### 2.8 分治和回溯（递归的细分）
+
+找重复性
+
+- [分治和回溯的算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-23-%E5%88%86%E6%B2%BB%E5%92%8C%E5%9B%9E%E6%BA%AF%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
+
+
+
 ## 三、方法论
 
 ### 3.1 刷题四件套
