@@ -151,7 +151,7 @@ redis为啥使用跳表，而不使用红黑树？
 
 经典题目：
 
-- 生成括号
+- [递归算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-18-%E9%80%92%E5%BD%92%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
 ## 三、方法论
 
