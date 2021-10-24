@@ -159,7 +159,41 @@ redis为啥使用跳表，而不使用红黑树？
 
 - [分治和回溯的算法题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-23-%E5%88%86%E6%B2%BB%E5%92%8C%E5%9B%9E%E6%BA%AF%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
+### 2.9 BFS和DFS
 
+#### 2.9.1 DFS 的代码模版
+
+```python
+visited = set()
+def dfs(node):
+  visited.add(node)
+  # process current node here
+  # ... ...
+  for node in node.children():
+      if not node in visited:
+          dfs(node)
+```
+
+#### 2.9.2 BFS 的代码模版
+
+使用队列（FIFO）
+
+```python
+def bfs(root):
+   queue = []
+   queue.append(root)
+   while queue:
+       node = queue.popleft()
+       
+       process(node)
+       nodes = generate_retated_nodes(node)
+       queue.push(nodes)
+       
+```
+
+#### 2.9.3 BFS和DFS相关题目
+
+- [BFS和DFS相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-23-BFS%E5%92%8CDFS%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
 ## 三、方法论
 
