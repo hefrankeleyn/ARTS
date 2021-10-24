@@ -195,6 +195,20 @@ def bfs(root):
 
 - [BFS和DFS相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-23-BFS%E5%92%8CDFS%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
+### 2.10 贪心算法
+
+- 贪心算法是一种在每一步选择中都采取在当前状态下最好或最优（即最有利的选择），从而希望导致结果是全局最好或最优的算法。
+
+- 贪心算法与动态规划不同的地方在于它对每个子问题的解决方案都做出选择，不能回退。动态规划则可以保存之前的运算结果，并根据以前的结果对当前进行选择，有回退功能。
+
+- 贪心：当下做局部最优判断；
+- 回溯：能够回退
+- 动态规划：最优判断+回退
+
+- [贪心算法相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-24-%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
+
+
+
 ## 三、方法论
 
 ### 3.1 刷题四件套
