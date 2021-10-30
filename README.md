@@ -228,6 +228,13 @@ while right>=left:
 
 - [二分查找相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-24-%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E7%9B%B8%E5%85%B3%E9%A2%98%E7%9B%AE.md)
 
+### 2.12 排序算法
+
+- 选择排序：[选择排序O(n^2)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MySelectSort.java)、[堆排序O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyHeapSort.java)
+- 交换排序：[冒泡排序O(n^2)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyMaoPaoSort.java)、[快速排序O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyQuickSort.java) 、[三路快排O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyQuickSortOf3Way.java)
+- 插入排序：[插入排序O(n^2)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyInsertSort.java)、[希尔排序(n^1.3)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyShellSort.java)
+- 归并排序：[从上到下归并排序O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyUpDownMergeSort.java)、[从下到上归并O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyDownUpMergeSort.java)
+
 ## 三、方法论
 
 ### 3.1 做题四步
