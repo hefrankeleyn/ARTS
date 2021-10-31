@@ -235,6 +235,10 @@ while right>=left:
 - 插入排序：[插入排序O(n^2)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyInsertSort.java)、[希尔排序(n^1.3)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyShellSort.java)
 - 归并排序：[从上到下归并排序O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyUpDownMergeSort.java)、[从下到上归并O(nlogn)](https://gitee.com/lf-ren/java-re-new-builder/blob/master/projects/pro03Algorithm/src/main/java/com/hef/sort/MyDownUpMergeSort.java)
 
+### 2.13 位元算
+
+- [位元算相关题目](https://gitee.com/lf-ren/java-re-new-builder/blob/master/document/week3-%E7%AE%97%E6%B3%95%E3%80%81springBoot/2021-10-31-%E4%BD%8D%E8%BF%90%E7%AE%97.md)
+
 ## 三、方法论
 
 ### 3.1 做题四步
