@@ -7,8 +7,8 @@
 | 序号 | 题目                                                         | 分类   | 思想 |
 | ---- | ------------------------------------------------------------ | ------ | ---- |
 | 1    | [LCR 170. 交易逆序对的总数](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | 逆序对 | 分治 |
-| 2    | [493. 翻转对](https://leetcode.cn/problems/reverse-pairs/)   | 逆序对 | 分治 |
-| 3    | [315. 计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) | 逆序对 | 分治 |
+| 2    | [493. 翻转对](https://leetcode.cn/problems/reverse-pairs/)   |        |      |
+| 3    | [315. 计算右侧小于当前元素的个数](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/) |        |      |
 | 4    | 二维平面上有 n 个点，如何快速计算出两个距离最近的点对？      |        |      |
 | 5    | 有两个 `n*n` 的矩阵 A，B，如何快速求解两个矩阵的乘积 C=A*B？ |        |      |
 | 6    | [面试题 08.12. 八皇后](https://leetcode.cn/problems/eight-queens-lcci/) |        | 回溯 |
@@ -24,12 +24,4 @@
 ### 第一题：逆序对
 
 2024-03-04解答。
-
-### 第二题：翻转对
-
-2024-03-04解答。
-
-### 第三题：计算右侧小于当前元素的个数
-
-2024-03-06解答
 

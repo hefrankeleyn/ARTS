@@ -1,4 +1,4 @@
-package org.hef.algorithm.m202403;
+package org.hef.algorithm.m202403.d04;
 
 import org.hef.algorithm.m202403.d04.Solution01;
 import org.junit.Test;
